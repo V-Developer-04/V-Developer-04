@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=bots" alt="Discord Bots" title="Discord Bots">
 </div>
 
 ## Contacto:
