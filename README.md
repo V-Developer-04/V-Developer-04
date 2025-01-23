@@ -1,16 +1,33 @@
-## Hi there 👋
+<h2>Habilidades y lenguajes:</h2>
 
-<!--
-**V-Developer-04/V-Developer-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Lenguajes de programación:</h3>
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin">
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
+</div>
 
-Here are some ideas to get you started:
+<h3>Frameworks:</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Bases de datos:</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite">
+</div>
+
+<h3>Otras habilidades:</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+</div>
+
+## Contacto:
+<a href="mailto:victor.martinez.roldan78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-victor.martinez.roldan78@gmail.com-white?style=flat-square&logo=gmail"></a>
