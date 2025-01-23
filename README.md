@@ -7,7 +7,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin">
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart">
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
 </div>
 
 <h3>Frameworks:</h3>
@@ -23,6 +22,7 @@
 
 <h3>Otras habilidades:</h3>
 <div>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
